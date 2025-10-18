@@ -1,0 +1,19 @@
+Projeto: EBL Soluções Corp
+URL: https://www.eblsolucoescorp.tec.br/
+
+**Descrição:** Empresa especializada em desenvolvimento web, CRM Salesforce, automação RPA e arquitetura de prompts para IA generativa.
+
+**Funcionalidades/Destaques:**
+- Desenvolvimento Web (Sites profissionais, landing pages, aplicações web modernas com React & Next.js, Design Responsivo, SEO Otimizado)
+- CRM Salesforce (Consultoria especializada em implementação, customização e integração)
+- Automação RPA (Análise de Processos, Desenvolvimento, Manutenção)
+- Arquitetura de Prompts (Otimização de prompts para IA generativa, Fine-tuning, Consultoria IA)
+- Experiência e Inovação em Soluções Digitais
+- Mais de 100 projetos entregues, 50+ clientes satisfeitos, 5+ anos de experiência, suporte 24/7.
+
+**Tecnologias:** React, Next.js, Salesforce, RPA, IA Generativa, SEO.
+
+**Impacto/Valor:**
+- Transformar ideias em sucesso digital.
+- Impulsionar presença digital e otimizar processos.
+- Soluções tecnológicas que impulsionam o crescimento e a eficiência dos clientes.

@@ -1,0 +1,48 @@
+Resumo das Atualizações do Portfólio - Erick Almeida
+Data: 17 de Outubro de 2025
+
+ALTERAÇÕES IMPLEMENTADAS:
+
+1. PROJETOS EM DESTAQUE
+   - Adicionados 6 projetos reais com links funcionais:
+     * Transformação Digital CRM (EBL Soluções Corp) - https://www.eblsolucoescorp.tec.br/
+     * Automação de Processos (Status Report VF) - https://status-report-vf.vercel.app/
+     * Business Intelligence (Status Report Profissional) - https://status-report-profissional.vercel.app/
+     * Trend Blade Barbearia - https://trend-blade-barbearia-zjav.vercel.app/
+     * Elite Fitness - https://elite-fitness-eta.vercel.app/
+     * Nasci Pra Deus - https://nasci-pra-deus.vercel.app/dashboard/
+
+2. CERTIFICAÇÕES
+   - Adicionada certificação "Platform Administrator" (Salesforce)
+   - Mantidas certificações Python e IA Google
+   - Total de 8 conquistas e certificações exibidas
+
+3. EXPERIÊNCIA EM GRANDES EMPRESAS
+   - Seção destacando Saint-Gobain, Assaí Atacadista e Elgin
+   - Logos das empresas exibidos
+   - Pontos-chave de atuação em cada empresa
+
+4. CONTATOS ATUALIZADOS
+   - Email: erick.almeida@eblsolucoescorp.tec.br
+   - WhatsApp: (11) 974455563 (com link funcional)
+   - LinkedIn: linkedin.com/in/erick-almeida1509/ (com link funcional)
+   - Trailblazer Profile mantido
+
+5. RODAPÉ
+   - Adicionada informação "Criado por Erick Almeida © 2025. Todos os direitos reservados."
+
+6. LAYOUT E DESIGN
+   - Grid responsivo para projetos (auto-fit, minmax(300px, 1fr))
+   - Botões "Ver Projeto" adicionados a todos os cards de projeto
+   - Seção de conquistas ajustada para acomodar 8 cards
+
+OBSERVAÇÕES:
+- O portfólio está visualmente atrativo e profissional
+- Todos os links de projetos estão funcionais
+- As informações de contato possuem hiperlinks de direcionamento
+- O design mantém a identidade visual azul e moderna
+- A seção de depoimentos foi mantida como "Destaques & Projetos" devido à impossibilidade de acessar o LinkedIn
+
+PRÓXIMOS PASSOS:
+- Fazer commit e push das alterações para o repositório GitHub
+- Verificar o deploy no Vercel

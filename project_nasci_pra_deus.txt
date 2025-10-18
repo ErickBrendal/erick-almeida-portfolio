@@ -1,0 +1,18 @@
+Projeto: Nasci Pra Deus - Ministério ZOE
+URL: https://nasci-pra-deus.vercel.app/dashboard/
+
+**Descrição:** Aplicação web para o Ministério ZOE, provavelmente para gestão de membros, eventos, ou conteúdo religioso.
+
+**Funcionalidades/Destaques (inferidas pela página de login e nome do projeto):**
+- Autenticação de usuário (login, recuperação de senha).
+- Dashboard (indica área administrativa ou de conteúdo exclusivo).
+- Foco em gestão para um ministério religioso.
+
+**Tecnologias (inferidas):** React/Next.js (Vercel), JavaScript, HTML, CSS, possivelmente um backend para autenticação e dados.
+
+**Impacto/Valor:**
+- Ferramenta para organização e comunicação de um ministério.
+- Gestão de informações de forma digital.
+- Acesso a conteúdo exclusivo para membros.
+
+**Observação:** A página inicial é uma tela de login, o que impede a análise completa das funcionalidades sem credenciais. As informações acima são baseadas no nome do projeto e na estrutura da página de login.

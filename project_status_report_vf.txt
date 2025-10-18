@@ -1,0 +1,22 @@
+Projeto: STATUS REPORT - Salesforce | Elgin CRM
+URL: https://status-report-vf.vercel.app/
+
+**Descrição:** Dashboard interativo para visualização do status de demandas Salesforce, com funcionalidades de filtro, busca e exportação.
+
+**Funcionalidades/Destaques:**
+- Distribuição por Status (Backlog, Refinamento, Estimativa, Aprovação, Desenvolvimento, Homologação, Deploy, Implementadas)
+- Fast Tracking para demandas sem priorização.
+- Distribuição por Área Solicitante.
+- Tabela de demandas com detalhes (Demanda, Área Solicitante, Status, Responsável).
+- Filtro por BU (Business Unit).
+- Busca de demandas.
+- Carregar e Exportar Excel.
+- Interface intuitiva e visual para gestão de projetos.
+
+**Tecnologias (inferidas):** React/Next.js (Vercel), JavaScript, HTML, CSS, possivelmente bibliotecas de visualização de dados (gráficos).
+
+**Impacto/Valor:**
+- Otimização da gestão de demandas e projetos Salesforce.
+- Transparência e visibilidade do status das tarefas.
+- Facilita a priorização e acompanhamento por áreas.
+- Ferramenta de comunicação eficiente entre equipes.

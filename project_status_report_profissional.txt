@@ -1,0 +1,18 @@
+Projeto: Elgin Status Report - Automação de Relatórios
+URL: https://status-report-profissional.vercel.app/
+
+**Descrição:** Ferramenta para upload de planilha Excel para geração automática de relatórios, especificamente para o Status Report da Elgin, com foco em Automação de Relatórios CRM Salesforce.
+
+**Funcionalidades/Destaques:**
+- Upload de planilha Excel (`Base_Fast_Tracking.xlsx`) para geração de relatório.
+- Carregar Dados de Teste.
+- Baixar Template Excel.
+- Automação de relatórios.
+
+**Tecnologias (inferidas):** React/Next.js (Vercel), JavaScript, HTML, CSS, possivelmente bibliotecas para manipulação de arquivos Excel e geração de relatórios.
+
+**Impacto/Valor:**
+- Otimização do tempo na geração de relatórios.
+- Redução de erros manuais.
+- Padronização de relatórios.
+- Suporte à gestão de CRM Salesforce.

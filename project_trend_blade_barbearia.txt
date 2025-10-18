@@ -1,0 +1,20 @@
+Projeto: Trend Blade Barbearia
+URL: https://trend-blade-barbearia-zjav.vercel.app/
+
+**Descrição:** Website para barbearia com foco em estilo e sofisticação, oferecendo uma experiência premium aos clientes.
+
+**Funcionalidades/Destaques:**
+- Agendamento online (Booksy ou WhatsApp)
+- Serviços detalhados (corte, barba, pacotes)
+- Depoimentos de clientes (145 avaliações com nota 5.0/5)
+- Informações de contato e localização
+- Design moderno e responsivo (inferido)
+
+**Tecnologias (inferidas):** HTML, CSS, JavaScript.
+
+**Impacto/Valor:**
+- Transformação do cuidado masculino em experiência única.
+- Combinação de técnicas tradicionais com tendências modernas.
+- Ambiente sofisticado e aconchegante.
+- Atendimento personalizado.
+
