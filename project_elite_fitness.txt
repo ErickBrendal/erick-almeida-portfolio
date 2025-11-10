@@ -1,5 +1,5 @@
 Projeto: Elite Fitness - Personal Trainer Premium
-URL: https://elite-fitness-eta.vercel.app/
+URL: https://elite-fitness-beta.vercel.app/
 
 **Descrição:** Plataforma premium e tecnológica para personal trainer, focada em mulheres, oferecendo uma jornada interativa e exclusiva para alcançar objetivos fitness.
 

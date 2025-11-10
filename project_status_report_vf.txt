@@ -1,5 +1,5 @@
 Projeto: STATUS REPORT - Salesforce | Elgin CRM
-URL: https://status-report-vf.vercel.app/
+URL: https://salesforce-quiz-master-jvsm.vercel.app/
 
 **Descrição:** Dashboard interativo para visualização do status de demandas Salesforce, com funcionalidades de filtro, busca e exportação.
 

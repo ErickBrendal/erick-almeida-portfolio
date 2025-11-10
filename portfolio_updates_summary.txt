@@ -6,10 +6,10 @@ ALTERAÇÕES IMPLEMENTADAS:
 1. PROJETOS EM DESTAQUE
    - Adicionados 6 projetos reais com links funcionais:
      * Transformação Digital CRM (EBL Soluções Corp) - https://www.eblsolucoescorp.tec.br/
-     * Automação de Processos (Status Report VF) - https://status-report-vf.vercel.app/
+     * Automação de Processos (Status Report VF) - https://salesforce-quiz-master-jvsm.vercel.app/
      * Business Intelligence (Status Report Profissional) - https://status-report-profissional.vercel.app/
      * Trend Blade Barbearia - https://trend-blade-barbearia-zjav.vercel.app/
-     * Elite Fitness - https://elite-fitness-eta.vercel.app/
+     * Elite Fitness - https://elite-fitness-beta.vercel.app/
      * Nasci Pra Deus - https://nasci-pra-deus.vercel.app/dashboard/
 
 2. CERTIFICAÇÕES
